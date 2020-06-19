@@ -14,5 +14,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         println("Add line 222");
+        println("modify file B");
     }
 }
