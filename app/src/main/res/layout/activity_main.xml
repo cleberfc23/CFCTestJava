@@ -19,4 +19,12 @@
         android:layout_height="wrap_content"
         android:orientation="vertical"
         app:layout_constraintGuide_begin="378dp" />
+
+    <Button
+        android:id="@+id/button6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Button"
+        tools:layout_editor_absoluteX="185dp"
+        tools:layout_editor_absoluteY="305dp" />
 </androidx.constraintlayout.widget.ConstraintLayout>
